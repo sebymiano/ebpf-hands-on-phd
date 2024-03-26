@@ -1,3 +1,3 @@
 # eBPF Tutorial
 
-This repository contains two different eBPF/XDP exercise to show the power of eBPF.
+This repository contains two different eBPF/XDP exercises to show the power of eBPF.
